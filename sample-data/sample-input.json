@@ -1,0 +1,11 @@
+{
+  "name": "Drift 271",
+  "category": "Footwear",
+  "brand": "ZenithWear",
+  "price": 7499.0,
+  "colors": ["Black", "Grey"],
+  "features": ["Breathable mesh upper", "Cushioned midsole"],
+  "specifications": {"Weight": "250g"},
+  "targetAudience": "long-distance runners",
+  "useCase": "long-distance running"
+}
